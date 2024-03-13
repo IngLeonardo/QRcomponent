@@ -546,9 +546,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-<<<<<<< HEAD
-.bg-blue-500 {
-=======
 .m-2{
   margin: 0.5rem;
 }
@@ -565,16 +562,6 @@ video {
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
-}
-
-.my-\[50vh\]{
-  margin-top: 50vh;
-  margin-bottom: 50vh;
-}
-
-.my-\[40vh\]{
-  margin-top: 40vh;
-  margin-bottom: 40vh;
 }
 
 .my-\[20vh\]{
@@ -632,7 +619,6 @@ video {
 }
 
 .bg-white{
->>>>>>> leonardo
   --tw-bg-opacity: 1;
   background-color: hsl(0 0% 100% / var(--tw-bg-opacity));
 }
@@ -672,11 +658,6 @@ video {
   font-weight: 700;
 }
 
-<<<<<<< HEAD
-.underline {
-  text-decoration-line: underline;
-}
-=======
 .font-light{
   font-weight: 300;
 }
@@ -690,5 +671,3 @@ video {
   --tw-text-opacity: 1;
   color: hsl(220 15% 55% / var(--tw-text-opacity));
 }
-
->>>>>>> leonardo
