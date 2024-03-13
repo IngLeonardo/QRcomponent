@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 /*
 ! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com
 */
@@ -444,7 +446,7 @@ video {
   display: none;
 }
 
-*, ::before, ::after {
+*, ::before, ::after{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -494,7 +496,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-::backdrop {
+::backdrop{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -544,20 +546,149 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+<<<<<<< HEAD
 .bg-blue-500 {
+=======
+.m-2{
+  margin: 0.5rem;
+}
+
+.m-6{
+  margin: 1.5rem;
+}
+
+.mx-2{
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.my-\[50vh\]{
+  margin-top: 50vh;
+  margin-bottom: 50vh;
+}
+
+.my-\[40vh\]{
+  margin-top: 40vh;
+  margin-bottom: 40vh;
+}
+
+.my-\[20vh\]{
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+}
+
+.flex{
+  display: flex;
+}
+
+.h-\[1845px\]{
+  height: 1845px;
+}
+
+.h-\[288px\]{
+  height: 288px;
+}
+
+.h-\[497px\]{
+  height: 497px;
+}
+
+.w-\[288px\]{
+  width: 288px;
+}
+
+.w-\[320px\]{
+  width: 320px;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.content-center{
+  align-content: center;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.gap-5{
+  gap: 1.25rem;
+}
+
+.rounded-xl{
+  border-radius: 0.75rem;
+}
+
+.bg-light-gray{
   --tw-bg-opacity: 1;
-  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+  background-color: hsl(212 45% 89% / var(--tw-bg-opacity));
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
+.bg-white{
+>>>>>>> leonardo
+  --tw-bg-opacity: 1;
+  background-color: hsl(0 0% 100% / var(--tw-bg-opacity));
 }
 
-.font-bold {
+.p-3{
+  padding: 0.75rem;
+}
+
+.px-2{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.px-4{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.font-Outfit{
+  font-family: Outfit;
+}
+
+.text-sm-15{
+  font-size: 15px;
+}
+
+.text-xl{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.font-bold{
   font-weight: 700;
 }
 
+<<<<<<< HEAD
 .underline {
   text-decoration-line: underline;
 }
+=======
+.font-light{
+  font-weight: 300;
+}
+
+.text-dark-blue{
+  --tw-text-opacity: 1;
+  color: hsl(218 44% 22% / var(--tw-text-opacity));
+}
+
+.text-grayish-blue{
+  --tw-text-opacity: 1;
+  color: hsl(220 15% 55% / var(--tw-text-opacity));
+}
+
+>>>>>>> leonardo
