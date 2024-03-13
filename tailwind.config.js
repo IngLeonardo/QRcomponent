@@ -5,9 +5,9 @@ module.exports = {
     extend: {
       colors:{
         'white':        'hsl(0, 0%, 100%)',
-        'Light-gray':   'hsl(212, 45%, 89%)',
-        'Grayish-blue': 'hsl(220, 15%, 55%)',
-        'Dark blue':    'hsl(218, 44%, 22%)',
+        'light-gray':   'hsl(212, 45%, 89%)',
+        'grayish-blue': 'hsl(220, 15%, 55%)',
+        'dark-blue':    'hsl(218, 44%, 22%)',
       },
       fontFamily:{
         'Outfit' :['Outfit'],
